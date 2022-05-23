@@ -1,6 +1,10 @@
 ﻿double area, valor, valordesconto, dezdesconto, resultado;
 string pulverizacao;
 
+Console.WriteLine("Exercicio para calclular se você tem desconto ou não na contratação de pulverização de area")
+    Console.WriteLine("-------------------------------------------------------");
+Console.WriteLine("Requisitos: area igual a 1 ou 2 e area maior que mil acres");
+
 Console.WriteLine("-------------------------------------------------------");
 Console.WriteLine("Tipo 1 – ervas daninhas R$ 50,00 por acre;  ");
 Console.WriteLine("Tipo 2 – gafanhotos R$ 100,00 por acre;  ");
