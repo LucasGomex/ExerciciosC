@@ -2,7 +2,7 @@
 string pulverizacao;
 
 Console.WriteLine("Exercicio para calclular se você tem desconto ou não na contratação de pulverização de area")
-    Console.WriteLine("-------------------------------------------------------");
+Console.WriteLine("-------------------------------------------------------");
 Console.WriteLine("Requisitos: area igual a 1 ou 2 e area maior que mil acres");
 
 Console.WriteLine("-------------------------------------------------------");
